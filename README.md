@@ -1,7 +1,5 @@
 # Agricultural Monitoring with Microchip LoRa Technology MOTE (RN2483)
 
-This repository provides a comprehensive guide and code for using the Microchip LoRa Technology MOTE (RN2483) to monitor various environmental parameters in agricultural fields. By leveraging LoRaWAN technology, you can gather critical data over long distances, making it ideal for wide-area agricultural applications.
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Components](#components)
